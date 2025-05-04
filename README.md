@@ -9,7 +9,6 @@ A centralized collection of professional links and resources for songwriting col
 
 ## 💼 Business Locations
 ### Music Services
-- [Songtradr Profile](https://www.songtradr.com/omar.orrantia)
 - [Production Services]() <!-- Add your production service link -->
 - [Songwriting Services]() <!-- Add your songwriting service link -->
 - [Studio Booking]() <!-- Add your studio booking link -->
@@ -43,7 +42,7 @@ A centralized collection of professional links and resources for songwriting col
 
 ---
 
-**Last Updated:** 2025-05-04 12:14:20 UTC  
+**Last Updated:** 2025-05-04 11:58:19 UTC  
 **Maintained by:** [@Sin-Estres-dev](https://github.com/Sin-Estres-dev)
 
 > 💡 This repository serves as a central hub for all professional links and resources related to my songwriting business. Feel free to reach out for collaborations!
